@@ -2,28 +2,18 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-
+In this project I refactored existing code for the Horiseon website.  I added semantic HTML, organized and removed unnecessary code and made sure all links worked appropriately.  I also added alt text for images to increase user accessibility as well as comments in the HTML and CSS files to increase the readability of the code for future coders.
 
 ## Screenshot
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+    ```md
+    ![Horiseon Webpage Screenshot](./assets/images/screenshot.png)
+
+    [screenshot.png](https://postimg.cc/64hHZWrX)
+    ```
 
 ## Deployment Link
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+https://uncgirl02.github.io/horiseon-code-refactor/
 
 
