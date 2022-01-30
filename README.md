@@ -6,11 +6,10 @@ In this project I refactored existing code for the Horiseon website.  I added se
 
 ## Screenshot
 
-    ```md
-    ![Horiseon Webpage Screenshot](./assets/images/screenshot.png)
+![Horiseon Webpage Screenshot](./assets/images/screenshot.png)
 
-    [screenshot.png](https://postimg.cc/64hHZWrX)
-    ```
+[screenshot.png](https://postimg.cc/64hHZWrX)
+
 
 ## Deployment Link
 
